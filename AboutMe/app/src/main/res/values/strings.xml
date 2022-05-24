@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Sean Cesario</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Sean.
+        \n\nI like to draw, read, watch film, take photos, buy clothes, and play video games.
+\n\nI draw people so I can create characters, draw people I see, and create clothing for them
+\nI buy a lot of old expensive clothes, it is a problem
+\n\nI am into art and literature of all kinds.
+        \nI read and watch a lot of content that I become obsessed with. If I am into something I REALLY get into it.
+\n\nGaming wise I have only really been playing Genshin Impact but I used to compete in FPS games
+\n\nI have been trying to learn how to be more proficient with film cameras and Japanese
+\n\nIf we have any common interests be my friend.\n\n</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>

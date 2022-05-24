@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MenuProject</string>
+    <string name="chooser_title">Share the love</string>
+    <string name="help">Help</string>
+    <string name="settings">Settings</string>
+</resources>

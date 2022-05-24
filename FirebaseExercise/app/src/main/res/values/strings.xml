@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Firebase Exercise</string>
+    <string name="enter_your_first_and_last_name">Enter your First and Last name:</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="click_to_add_employee">Click to Add Employee</string>
+</resources>
